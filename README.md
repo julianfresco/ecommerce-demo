@@ -5,16 +5,16 @@
 technical capabilities. 
 
 
-**Demos:**
+### Demos
 
 :hourglass_flowing_sand: [django/monolith](#coming-soon)
 
 :hourglass_flowing_sand: [django/microservice](#coming-soon)
 
 
-**Dev Tasks:**
+### Dev Tasks
 
-#### Django (monolithic)
+**Django (monolithic):**
 
 - [ ] DB design
 - [ ] API design
